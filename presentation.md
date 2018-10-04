@@ -75,7 +75,7 @@
 
 # Applying: Integral Image
 
-* efficiently evaluates hear features; O(n²) ➡ O(1)
+* efficiently evaluates haar features; O(n²) ➡ O(1)
 
 ![inline](https://computersciencesource.files.wordpress.com/2010/09/adding_2.png)![inline](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Summed_area_table.png/220px-Summed_area_table.png)
 
