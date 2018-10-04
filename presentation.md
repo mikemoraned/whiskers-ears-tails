@@ -149,3 +149,8 @@ from [pyimagesearch](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-
 
 ![inline left 120%](bonce.jpg) [(that’s me)](https://twitter.com/mike_moran), https://twitter.com/mike_moran
 
+---
+
+# Dlib?
+
+![inline](Dn9dn_aW0AIDFv5.jpg)
