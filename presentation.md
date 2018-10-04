@@ -95,6 +95,14 @@
 
 ---
 
+# Re-using an off-the-shelf model
+
+![left 75%](detecting_cats.png)
+
+from [pyimagesearch](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/), using a pre-trained cat model from [Joseph Howse](https://twitter.com/CatsAndMonkeys)
+
+---
+
 # Where have I gotten to in this? Job done, ye?
 
 ![inline](0b47f51b281802e5b262855dfe84419218df247a9c193ae339ef06774ae5b572/thumbnail_medium_haar_cat2_eyes.jpg)![inline](1c8ca65d3a8a7b547516208313caad43ba347ad9fe836dd68d4af1e05c59d7cf/thumbnail_medium_haar_cat2_eyes.jpg)
@@ -137,7 +145,7 @@
 
 ![inline left 35%](RjFZp_zg_400x400.jpg)[Sky](https://twitter.com/carrotcodes]) of [Adopt Animals](https://www.adoptanimals.io/), https://twitter.com/carrotcodes
 
-![inline left 35%](kale-logo.png) [Kale charity](https://www.kale.org.uk/), https://www.kale.org.uk/ 
+![inline left 35%](kale-logo.png) [Kale Charity](https://www.kale.org.uk/), https://www.kale.org.uk/ 
 
 ![inline left 120%](bonce.jpg) [(that’s me)](https://twitter.com/mike_moran), https://twitter.com/mike_moran
 
