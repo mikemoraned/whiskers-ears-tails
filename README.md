@@ -15,10 +15,8 @@ the slides, even if I don't mention them explicitly in the talk itself. Also, if
 you have *seen* the talk and there was something I have mentioned which would be
 useful, please mention it, and I will add it to the links.
 
-## Presentations: PyData Edinburgh 2018
+## Presentation: PyData Edinburgh October 2018
 
-Presented at [PyData Edinburgh 2018](https://www.meetup.com/PyData-Edinburgh/events/254843839/)
+Many thanks to [PyData Edinburgh](https://www.meetup.com/PyData-Edinburgh/) for letting me present at [PyData Edinburgh October 2018](https://www.meetup.com/PyData-Edinburgh/events/254843839/), and for everyone who attended.
 
-See [source](presentation.pydata_edi_2018.md) and resulting 
-[pdf](presentation.pydata_edi_2018.pdf), which captures the layout but does not
-contain the videos.
+See [markdown source](presentation.pydata_edi_2018.md) and resulting [pdf](presentation.pydata_edi_2018.pdf) exported from [Deckset](https://www.deckset.com/). The PDF captures the layout but does not contain the embedded videos.
