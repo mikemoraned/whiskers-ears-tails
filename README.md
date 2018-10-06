@@ -3,7 +3,7 @@
 ![inline](monocle_cat.jpg)
 
 This a collection of one of more presentations done illustrating the work I have
-been collaborating with [Sky](https://twitter.com/carrotcodes]) on to improve
+been collaborating with [Sky](https://twitter.com/carrotcodes) on to improve
 images of Cats and Dogs on [Adopt Animals](https://www.adoptanimals.io/).
 
 I tend not to record lots of details on the slides of presentations I create,
